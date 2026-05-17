@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I am Vedant  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="70" height="70" />
 
-<!--
-**vedant-kawale-27/vedant-kawale-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me:  :alien:
+I am a CS undergraduate at **TSSM's BHIVARABAI SAWANT COLLEGE OF ENGINEERING AND RESEARCH, Pune, India**. </br>
+A developer who likes building tools that actually do something useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love learning new technologies and contributing to open source. Recently enjoying problem solving as well.
+
+I am currently working on something cool. :shipit:  </br>
+
+## How to reach me
+:handshake: And making connections on [Linkedin](https://www.linkedin.com/in/vedant-kawale-41967825a)
